@@ -17,7 +17,7 @@ button.addEventListener("click", function () {
   if (document.body.style.backgroundColor === "#D6D39F") {
     // If dark mode is on, switch to light mode
     document.body.style.backgroundColor = "#BDB966";       // background to light
-    document.body.style.color = "black";                   // text to dark
+    document.body.style.color = "#130000";                   // text to dark
     button.textContent = "Darken";                      // button text changes to "dark mode"
 
     //#5
