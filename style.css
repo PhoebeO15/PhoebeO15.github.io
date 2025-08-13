@@ -2,18 +2,19 @@ body {
   margin: 0;
   font-family: Papyrus !important;
   text-align: center;
-  background-color: #D6D39F
+  background-color: #D6D39F;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   transition: filter 0.5s, color 0.5s;
 }
 .about {
-     background-color: #241614
+     background-color: #241614;
 }
 p {
   font-size: 22px;
   font-weight: bold;
+  background-color: #FFEBEB;
     }
 nav {
   display: flex;
