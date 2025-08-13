@@ -2,7 +2,7 @@ body {
   margin: 0;
   font-family: Papyrus !important;
   text-align: center;
-  background-image: url('https://images.unsplash.com/photo-1563291074-2bf8677ac0e5?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c29mdCUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D');
+
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -19,12 +19,12 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #FFEBEB;
+  background-color: #311E1C;
   padding: 15px 25px;
 }
 
 .logo {
-  color: #421229;
+  color: #FFEBEB;
   font-size: 1.2rem;
   font-weight: bold;
 }
@@ -38,7 +38,7 @@ nav ul {
 }
 
 nav a {
-  color: #421229;
+  color: #FFEBEB;
   text-decoration: none;
   font-weight: 500;
 }
