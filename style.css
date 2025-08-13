@@ -8,6 +8,9 @@ body {
   background-attachment: fixed;
   transition: filter 0.5s, color 0.5s;
 }
+.about {
+     background-color: #fff
+}
 p {
   font-size: 22px;
   font-weight: bold;
