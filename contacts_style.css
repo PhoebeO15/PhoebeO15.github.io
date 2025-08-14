@@ -1,3 +1,15 @@
+body {
+  margin: 0;
+  font-family: Papyrus !important;
+  text-align: center;
+  background-color: #D6D39F;
+  color: #221614;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  transition: filter 0.5s, color 0.5s;
+}
+
 /* Main container */
 .contact-container {
   display: flex;
