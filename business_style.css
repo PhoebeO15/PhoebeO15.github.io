@@ -37,6 +37,6 @@ body {
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
-  margin: 30;
-  height: 100vh;
+  margin: 0;
+  height: 90vh;
 }
