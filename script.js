@@ -8,6 +8,13 @@ button.textContent = "Darken";
 document.body.style.backgroundColor = "#D6D39F"; // light background
 document.body.style.color = "#6A694D"; // dark text
 
+// Style the button (optional)
+button.style.position = "fixed";
+button.style.top = "10px";
+button.style.right = "10px";
+button.style.padding = "10px 15px";
+button.style.cursor = "pointer";
+
 // Add the button to the page
 document.body.appendChild(button);
 
@@ -29,3 +36,4 @@ button.addEventListener("click", function () {
     button.textContent = "Darken";
     isLightMode = true;
   }
+});
