@@ -4,6 +4,11 @@ nav {
   align-items: center;
   background-color: #311E1C;
   padding: 15px 25px;
+  background-color: rgba(49, 30, 28, 0.6); /* Semi-transparent */
+  position: fixed; /* Keep it at top */
+  top: 0;
+  width: 100%;
+  z-index: 1000;
 }
 
 .logo {
@@ -34,5 +39,9 @@ nav a:hover {
 body {
   background-image: url("wimterGreen.jpg");
   background-repeat: no-repeat;
-  
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  margin: 0;
+  height: 100vh;
 }
