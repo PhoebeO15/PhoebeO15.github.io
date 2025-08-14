@@ -30,10 +30,10 @@ nav a:hover {
   text-decoration: underline;
 }
 
-selector {
-  background-image: url("file:///C:/Users/chion/OneDrive/Pictures/Screenshots/wimterGreen.jpg");
-  background-repeat: no-repeat; /* Prevents the image from repeating */
-  background-size: cover; /* Scales the image to cover the entire element */
-  background-position: center center; /* Centers the image */
-  background-attachment: fixed; /* Keeps the image fixed during scrolling */
+body {
+  background-image: url("wimterGreen.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
 }
