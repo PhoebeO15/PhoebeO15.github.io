@@ -33,4 +33,6 @@ nav a:hover {
 
 body {
   background-image: url("wimterGreen.jpg");
+  background-repeat: no-repeat;
+  
 }
