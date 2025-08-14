@@ -4,11 +4,6 @@ nav {
   align-items: center;
   background-color: #311E1C;
   padding: 15px 25px;
-  background-color: rgba(49, 30, 28, 0.6); /* Semi-transparent */
-  position: fixed; /* Keep it at top */
-  top: 0;
-  width: 100%;
-  z-index: 1000;
 }
 
 .logo {
@@ -44,4 +39,5 @@ body {
   background-attachment: fixed;
   margin: 0;
   height: 100vh;
+  padding-top: 70px;
 }
